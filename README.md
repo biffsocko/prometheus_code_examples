@@ -1,10 +1,9 @@
 # prometheus_code_examples
 
-Word Document with pictures: https://drop.biffsocko.com/monitoring/Querying_Prometheus.docx
 
+**Querying Prometheus:**
 
-Querying Prometheus:
-Starting at:
+Starting at your graphana page:
 https://cachai-dashboard.providentiaworldwide.com/d/Kn5xm-gZk2/enclave-rmq?orgId=1&refresh=15s
 
 1)	Click on the metric you want to collect, and press the “e”  key:
