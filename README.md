@@ -9,7 +9,8 @@ https://cachai-dashboard.providentiaworldwide.com/d/Kn5xm-gZk2/enclave-rmq?orgId
 
 1)	Click on the metric you want to collect, and press the “e”  key:
 
- 
+ <img width="468" alt="image" src="https://github.com/biffsocko/prometheus_code_examples/assets/5352741/3b51eb7f-aee4-425a-8902-776bd22fd9f5">
+
 
 
 2)	This screen will show the query that is needed :
@@ -25,4 +26,3 @@ pip3 install prometheus_api_client
 Code examples can be downloaded here:
 https://github.com/biffsocko/prometheus_code_examples
 
-![image](https://github.com/biffsocko/prometheus_code_examples/assets/5352741/146df825-c98c-480f-b965-0d7993f02e74)
