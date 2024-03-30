@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+############################################################
+# TR Murphy
+# publishers.py
+# 
+# simple connection.  remember to connect your vpn
+############################################################
 
 from prometheus_api_client import PrometheusConnect
 
